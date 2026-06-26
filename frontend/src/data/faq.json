@@ -1,0 +1,34 @@
+[
+  {
+    "question": "What is your return policy?",
+    "answer": "Products can be returned within 30 days."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "Use the tracking link sent to your email."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on Forgot Password and follow the instructions."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept UPI, Credit Cards, Debit Cards and Net Banking."
+  },
+  {
+    "question": "How can I contact customer support?",
+    "answer": "Customer support is available through email and live chat."
+  },
+  {
+    "question": "Do you provide refunds?",
+    "answer": "Yes, refunds are processed within 5-7 business days."
+  },
+  {
+    "question": "Can I cancel my order?",
+    "answer": "Orders can be cancelled before shipment."
+  },
+  {
+    "question": "How long does shipping take?",
+    "answer": "Shipping generally takes 3-7 working days."
+  }
+]
